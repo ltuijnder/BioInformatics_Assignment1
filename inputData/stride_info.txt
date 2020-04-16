@@ -68350,8 +68350,8 @@
 2w15	A	 200	ASN	Other
 2w15	A	 201	LYS	Other
 2w15	A	 202	PRO	Other
-1fsg	A	   0	GLY	Other
-1fsg	A	   0	SER	Other
+1fsg	A	  -2	GLY	Other
+1fsg	A	  -1	SER	Other
 1fsg	A	   0	HIS	Other
 1fsg	A	   1	MET	Other
 1fsg	A	   2	ALA	Other
